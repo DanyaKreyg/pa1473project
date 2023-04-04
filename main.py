@@ -20,3 +20,4 @@ ev3 = EV3Brick()
 ev3.speaker.beep()
 
 print("hellow suck ")
+print("hellow suck ")
